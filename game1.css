@@ -1,0 +1,7 @@
+body { background-color: oldlace; }
+canvas { 
+         background: lightblue; 
+         position: relative;
+         top: 100px;
+         left: 32%;
+       }
